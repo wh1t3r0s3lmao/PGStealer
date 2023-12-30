@@ -8,7 +8,7 @@ import time
 print("Script Starts running succefully without errors, Hold on and grab a cup of coffee!")
 
 start_time = time.time()
-API_Key = "" #your tf bot API Key
+API_Key = "" #your tg bot API Key
 chat_id = "" #your tg bot chat id
 
 def sending():
