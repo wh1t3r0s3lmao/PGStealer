@@ -50,7 +50,7 @@ Upon completion, PGStealer will provide you with a secure link to your encrypted
 
 Goodbye, Adiós, Au revoir, Auf Wiedersehen, Arrivederci, Adeus, Прощай, さようなら, 再见, 안녕히 가세요, अलविदा, وداعًا, Hoşça kal, Vaarwel, Adjö, Αντίο, להתראות, Do widzenia, Tạm biệt, ลาก่อน, La revedere, Sbohem, Viszlát, Paalam, Näkemiin, Selamat tinggal, Kwaheri, বিদায়, خداحافظ
 
-~Made with love By Offensive Analyst AKA infectiaDB <3
+~Made with love <3
 
 
 
